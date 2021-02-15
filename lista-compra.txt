@@ -6,3 +6,5 @@ sal
 atún
 coca cola
 pepsi
+jamon 
+queso
